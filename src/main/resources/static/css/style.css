@@ -1,0 +1,13 @@
+body {
+	background-color: dark grey;
+}
+
+.wrapper {
+	display:flex;
+}
+
+.location {
+	width: 25%;
+	height: 25vh;
+	background-color:grey;
+}
